@@ -1,0 +1,27 @@
+body {background-color:rgb(83, 87, 87);}
+h1 {font-size:400%;font-family:arial;color:rgb(196, 43, 43);padding:20px;margin:40px;text-align:center;}
+p {font-size:195%;font-family:arial;color:white;padding:10px;margin:70px;}
+nav {font-size:250%;font-family:arial;color:rgb(196, 43, 43);padding:20px;margin:40px;text-align:center;}
+a:link, a:hover {
+    color: rgb(196, 43, 43);
+    background-color: rgb(56, 56, 56);
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:visited {
+    color: rgb(224, 15, 15);
+    background-color: rgb(56, 56, 56);
+    text-decoration: none;
+}
+a:active {
+    color:rgb(214, 88, 88);
+    background-color:rgb(56, 56, 56);
+    text-decoration: none;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
